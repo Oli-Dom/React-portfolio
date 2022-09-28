@@ -30,14 +30,13 @@ const About = () => {
               <h5>projects</h5>
               <small>N/A</small>
             </article>
-
-            <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro
-              voluptatibus debitis, ab eveniet ullam amet non ducimus quam
-              voluptates quod cumque, impedit atque nisi vitae iusto earum
-              inventore expedita cupiditate.
-            </p>
           </div>
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro
+            voluptatibus debitis, ab eveniet ullam amet non ducimus quam
+            voluptates quod cumque, impedit atque nisi vitae iusto earum
+            inventore expedita cupiditate.
+          </p>
         </div>
       </div>
     </section>

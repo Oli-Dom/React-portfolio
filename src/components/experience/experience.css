@@ -1,0 +1,18 @@
+
+.experience_info
+{
+    padding: 2rem;
+}
+
+
+.experience_info li
+{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+}
+
+
+ul>li>p{
+    font-size: 0.9remrem;
+}
